@@ -6,4 +6,4 @@
 
 ### Desafio dia 02 - Loader animado
 
-![alt-text](https://j.gifs.com/0YZoB5.gif)
+![alt-text width="50" height="50"](https://j.gifs.com/0YZoB5.gif)
